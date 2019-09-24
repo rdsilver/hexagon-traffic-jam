@@ -1,5 +1,5 @@
 const pos = {};
-let lineDist = 13;
+let lineDist = 20;
 let startingAngle = 0;
 let previousPoints = [];
 let potentialColors = ["#9F86C0", "#BE95C4", "#E0B1CB", "#EACBDC", "#F5E5EE", "#FFF"];
